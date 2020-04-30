@@ -1,0 +1,3 @@
+﻿  QInt.cpp
+D:\c++\KTMT-HN\QInt\QInt\QInt.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+  QInt.vcxproj -> D:\c++\KTMT-HN\QInt\Debug\QInt.exe
