@@ -17,6 +17,13 @@ public:
 	string StringDecDivTwo(string&);
 	string StringToBin(string);
 	void ScanQInt(QInt&);
+
+    string SummationNumberString(string, string);
+    string SubtractionNumberString(string, string);
+    string MultiplicationNumberString(string, string);
+	string Exponentiation(int, int);
+	string QIntToDec(QInt);
 	void PrintQInt(QInt);
+
 };
 

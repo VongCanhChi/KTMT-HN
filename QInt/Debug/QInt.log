@@ -1,3 +1,5 @@
 ﻿  QInt.cpp
 D:\c++\KTMT-HN\QInt\QInt\QInt.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+D:\c++\KTMT-HN\QInt\QInt\QInt.cpp(256,20): warning C4018: '<': signed/unsigned mismatch
+D:\c++\KTMT-HN\QInt\QInt\QInt.cpp(172): warning C4715: 'QInt::SummationNumberString': not all control paths return a value
   QInt.vcxproj -> D:\c++\KTMT-HN\QInt\Debug\QInt.exe
