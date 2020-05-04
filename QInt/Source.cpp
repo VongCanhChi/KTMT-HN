@@ -1,10 +1,9 @@
-#include "QInt.h"
 
+#include "QFloat.h"
 int main()
 {
-	QInt q;
-	q.ScanQInt(q);
-	q.PrintQInt(q);
-
+	QFloat q;
+	q.ScanQFloat("12.625", 10);
+	q.PrintQFloat(10);
 	system("pause");
 }

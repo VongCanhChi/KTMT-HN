@@ -2,12 +2,11 @@
 #include<iostream>
 #include <string>
 using namespace std;
+
 class QInt
 {
 protected:
-	
 	int Data[4];
-
 public:
 	QInt();
 	~QInt();

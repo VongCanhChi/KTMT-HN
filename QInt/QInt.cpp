@@ -346,5 +346,5 @@ void QInt::PrintQInt(QInt x)
 	{
 		cout << x.Getbit(x.Data[i / 32], i % 32);
 	}
-	cout<<endl<<x.QIntToDec(x);
+	cout << endl << x.QIntToDec(x);
 }
